@@ -1,0 +1,10 @@
+.header__button {
+  padding: 0;
+  border: none;
+  width: 144px;
+  height: 43px;
+  align-self: center;
+  background-color: #489AFF;
+  color: white;
+  border-radius: 500px;
+}

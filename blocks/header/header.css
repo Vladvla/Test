@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  width: 73%;
+  height: 60px;
+  margin-top: 32px;
+  justify-content: space-between;
+  position: fixed;
+}

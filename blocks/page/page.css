@@ -1,0 +1,9 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: white;
+  font-family: 'Roboto', ‘Arial’, sans-serif;
+  align-items: center;
+  margin: 0;
+}
